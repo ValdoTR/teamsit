@@ -350,7 +350,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"{{{ arcadeGame2 }}}"
+                 "value":"{{{ arcadeGame3 }}}"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
