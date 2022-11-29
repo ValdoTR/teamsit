@@ -309,7 +309,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/teamsit\/metaverse\/lounge#from-village"
+                 "value":"\/@\/teamsit\/metaverse\/lounge#from-jardin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1965,7 +1965,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TimsitVerse: Village"
+         "value":"Teamsit metaverse: Le jardin"
         }, 
         {
          "name":"mapImage",
@@ -1975,7 +1975,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Village"
+         "value":"Le jardin"
         }, 
         {
          "name":"script",
