@@ -11,6 +11,7 @@ WA.onInit().then(() => {
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags)
 
+    // LE JARDIN
     WA.room.onEnterLayer('doorSteps').subscribe(() => {
         WA.room.showLayer("openDoors")
     })
@@ -31,6 +32,22 @@ WA.onInit().then(() => {
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
         console.log('Scripting API Extra ready');
+
+        // LE LOUNGE
+        const today = new Date().getDate()
+        // Sunday (0) to Saturday (6)
+        const mapDayToVariable = [
+            "filmDuDimanche",
+            "filmDuLundi",
+            "filmDuMardi",
+            "filmDuMercredi",
+            "filmDuJeudi",
+            "filmDuVendredi",
+            "filmDuSamedi",
+        ]
+
+        WA.state.filmDuJour = WA.state.loadVariable(mapDayToVariable[today])
+    
     }).catch(e => console.error(e));
 
 }).catch(e => console.error(e));
