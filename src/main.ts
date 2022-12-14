@@ -53,8 +53,9 @@ WA.onInit().then(() => {
             "filmDuVendredi",
             "filmDuSamedi",
         ]
-
-        WA.state.filmDuJour = WA.state.loadVariable(mapDayToVariable[today])
+        if (WA.state.filmDuJour) {
+            WA.state.filmDuJour = WA.state.loadVariable(mapDayToVariable[today])
+        }
     
     }).catch(e => console.error(e));
 
