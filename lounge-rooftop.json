@@ -546,14 +546,14 @@
          "objects":[
                 {
                  "class":"area",
-                 "height":72,
+                 "height":104,
                  "id":73,
                  "name":"doorStep",
                  "rotation":0,
                  "visible":true,
                  "width":96,
                  "x":448,
-                 "y":576
+                 "y":544
                 }],
          "opacity":1,
          "type":"objectgroup",
