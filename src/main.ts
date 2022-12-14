@@ -42,7 +42,7 @@ WA.onInit().then(() => {
         console.log('Scripting API Extra ready');
 
         // LE LOUNGE - Cinéma
-        const today = new Date().getDate()
+        const today = new Date().getDay()
         // Sunday (0) to Saturday (6)
         const mapDayToVariable = [
             "filmDuDimanche",
