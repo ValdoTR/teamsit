@@ -56,7 +56,7 @@ WA.onInit().then(() => {
 
         console.log("variable to load",mapDayToVariable[today])
 
-        WA.room.onEnterLayer('filmDuJourTrigger').subscribe(() => {
+        WA.room.area.onEnter('filmDuJourTrigger').subscribe(() => {
             console.log("> load")
             WA.state.filmDuJour = WA.state.loadVariable(mapDayToVariable[today])
         })
