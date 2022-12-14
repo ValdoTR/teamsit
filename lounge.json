@@ -2968,6 +2968,51 @@
          "layers":[
                 {
                  "draworder":"topdown",
+                 "id":101,
+                 "name":"conference",
+                 "objects":[
+                        {
+                         "class":"variable",
+                         "height":0,
+                         "id":63,
+                         "name":"liveStreamURL",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"URL du live streaming"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
+                                }],
+                         "rotation":0,
+                         "visible":true,
+                         "width":0,
+                         "x":1074,
+                         "y":945
+                        }],
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Conf\u00e9rence"
+                        }],
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "draworder":"topdown",
                  "id":51,
                  "name":"bibliotheque",
                  "objects":[
@@ -3835,8 +3880,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":101,
- "nextobjectid":63,
+ "nextlayerid":102,
+ "nextobjectid":64,
  "orientation":"orthogonal",
  "properties":[
         {
