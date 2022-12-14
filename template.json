@@ -282,11 +282,6 @@
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Appuyez sur ESPACE ou touchez pour ouvrir la page web"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -344,6 +339,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"{{{ templateGame }}}"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
