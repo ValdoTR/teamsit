@@ -3019,62 +3019,6 @@
                         {
                          "class":"variable",
                          "height":0,
-                         "id":37,
-                         "name":"videosRecommandees1",
-                         "point":true,
-                         "properties":[
-                                {
-                                 "name":"default",
-                                 "type":"string",
-                                 "value":""
-                                }, 
-                                {
-                                 "name":"label",
-                                 "type":"string",
-                                 "value":"URL \"Vid\u00e9os Recommand\u00e9es\" n\u00b01"
-                                }, 
-                                {
-                                 "name":"persist",
-                                 "type":"bool",
-                                 "value":true
-                                }],
-                         "rotation":0,
-                         "visible":true,
-                         "width":0,
-                         "x":116,
-                         "y":853.333333333333
-                        }, 
-                        {
-                         "class":"variable",
-                         "height":0,
-                         "id":38,
-                         "name":"livresRecommandes1",
-                         "point":true,
-                         "properties":[
-                                {
-                                 "name":"default",
-                                 "type":"string",
-                                 "value":""
-                                }, 
-                                {
-                                 "name":"label",
-                                 "type":"string",
-                                 "value":"URL \"Livres Recommand\u00e9s\" n\u00b01"
-                                }, 
-                                {
-                                 "name":"persist",
-                                 "type":"bool",
-                                 "value":true
-                                }],
-                         "rotation":0,
-                         "visible":true,
-                         "width":0,
-                         "x":336.666666666666,
-                         "y":496
-                        }, 
-                        {
-                         "class":"variable",
-                         "height":0,
                          "id":40,
                          "name":"videosTimsit1",
                          "point":true,
@@ -3099,118 +3043,6 @@
                          "width":0,
                          "x":112,
                          "y":1233.33333333333
-                        }, 
-                        {
-                         "class":"variable",
-                         "height":0,
-                         "id":41,
-                         "name":"actualites1",
-                         "point":true,
-                         "properties":[
-                                {
-                                 "name":"default",
-                                 "type":"string",
-                                 "value":""
-                                }, 
-                                {
-                                 "name":"label",
-                                 "type":"string",
-                                 "value":"URL \"Actualit\u00e9s\" n\u00b01"
-                                }, 
-                                {
-                                 "name":"persist",
-                                 "type":"bool",
-                                 "value":true
-                                }],
-                         "rotation":0,
-                         "visible":true,
-                         "width":0,
-                         "x":338,
-                         "y":847.333333333333
-                        }, 
-                        {
-                         "class":"variable",
-                         "height":0,
-                         "id":42,
-                         "name":"articlesScientifiques1",
-                         "point":true,
-                         "properties":[
-                                {
-                                 "name":"default",
-                                 "type":"string",
-                                 "value":""
-                                }, 
-                                {
-                                 "name":"label",
-                                 "type":"string",
-                                 "value":"URL \"Articles scientifiques\" n\u00b01"
-                                }, 
-                                {
-                                 "name":"persist",
-                                 "type":"bool",
-                                 "value":true
-                                }],
-                         "rotation":0,
-                         "visible":true,
-                         "width":0,
-                         "x":112,
-                         "y":147.333333333333
-                        }, 
-                        {
-                         "class":"variable",
-                         "height":0,
-                         "id":43,
-                         "name":"detente1",
-                         "point":true,
-                         "properties":[
-                                {
-                                 "name":"default",
-                                 "type":"string",
-                                 "value":""
-                                }, 
-                                {
-                                 "name":"label",
-                                 "type":"string",
-                                 "value":"URL \"D\u00e9tente\" n\u00b01"
-                                }, 
-                                {
-                                 "name":"persist",
-                                 "type":"bool",
-                                 "value":true
-                                }],
-                         "rotation":0,
-                         "visible":true,
-                         "width":0,
-                         "x":112.666666666666,
-                         "y":494.666666666667
-                        }, 
-                        {
-                         "class":"variable",
-                         "height":0,
-                         "id":48,
-                         "name":"etudesEtRapports1",
-                         "point":true,
-                         "properties":[
-                                {
-                                 "name":"default",
-                                 "type":"string",
-                                 "value":""
-                                }, 
-                                {
-                                 "name":"label",
-                                 "type":"string",
-                                 "value":"URL \"Etudes et rapports\" n\u00b01"
-                                }, 
-                                {
-                                 "name":"persist",
-                                 "type":"bool",
-                                 "value":true
-                                }],
-                         "rotation":0,
-                         "visible":true,
-                         "width":0,
-                         "x":335.166666666667,
-                         "y":145.583333333333
                         }, 
                         {
                          "class":"variable",
@@ -3271,8 +3103,8 @@
                         {
                          "class":"variable",
                          "height":0,
-                         "id":51,
-                         "name":"videosRecommandees2",
+                         "id":41,
+                         "name":"actualites1",
                          "point":true,
                          "properties":[
                                 {
@@ -3283,7 +3115,7 @@
                                 {
                                  "name":"label",
                                  "type":"string",
-                                 "value":"URL \"Vid\u00e9os Recommand\u00e9es\" n\u00b02"
+                                 "value":"URL \"Actualit\u00e9s\" n\u00b01"
                                 }, 
                                 {
                                  "name":"persist",
@@ -3293,36 +3125,8 @@
                          "rotation":0,
                          "visible":true,
                          "width":0,
-                         "x":78,
-                         "y":918
-                        }, 
-                        {
-                         "class":"variable",
-                         "height":0,
-                         "id":52,
-                         "name":"videosRecommandees3",
-                         "point":true,
-                         "properties":[
-                                {
-                                 "name":"default",
-                                 "type":"string",
-                                 "value":""
-                                }, 
-                                {
-                                 "name":"label",
-                                 "type":"string",
-                                 "value":"URL \"Vid\u00e9os Recommand\u00e9es\" n\u00b03"
-                                }, 
-                                {
-                                 "name":"persist",
-                                 "type":"bool",
-                                 "value":true
-                                }],
-                         "rotation":0,
-                         "visible":true,
-                         "width":0,
-                         "x":77,
-                         "y":984
+                         "x":338,
+                         "y":847.333333333333
                         }, 
                         {
                          "class":"variable",
@@ -3383,8 +3187,8 @@
                         {
                          "class":"variable",
                          "height":0,
-                         "id":55,
-                         "name":"detente2",
+                         "id":37,
+                         "name":"videosRecommandees1",
                          "point":true,
                          "properties":[
                                 {
@@ -3395,7 +3199,7 @@
                                 {
                                  "name":"label",
                                  "type":"string",
-                                 "value":"URL \"D\u00e9tente\" n\u00b02"
+                                 "value":"URL \"Vid\u00e9os Recommand\u00e9es\" n\u00b01"
                                 }, 
                                 {
                                  "name":"persist",
@@ -3405,14 +3209,14 @@
                          "rotation":0,
                          "visible":true,
                          "width":0,
-                         "x":79,
-                         "y":562
+                         "x":116,
+                         "y":853.333333333333
                         }, 
                         {
                          "class":"variable",
                          "height":0,
-                         "id":56,
-                         "name":"detente3",
+                         "id":51,
+                         "name":"videosRecommandees2",
                          "point":true,
                          "properties":[
                                 {
@@ -3423,7 +3227,7 @@
                                 {
                                  "name":"label",
                                  "type":"string",
-                                 "value":"URL \"D\u00e9tente\" n\u00b03"
+                                 "value":"URL \"Vid\u00e9os Recommand\u00e9es\" n\u00b02"
                                 }, 
                                 {
                                  "name":"persist",
@@ -3433,8 +3237,64 @@
                          "rotation":0,
                          "visible":true,
                          "width":0,
-                         "x":82,
-                         "y":629
+                         "x":78,
+                         "y":918
+                        }, 
+                        {
+                         "class":"variable",
+                         "height":0,
+                         "id":52,
+                         "name":"videosRecommandees3",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"URL \"Vid\u00e9os Recommand\u00e9es\" n\u00b03"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
+                                }],
+                         "rotation":0,
+                         "visible":true,
+                         "width":0,
+                         "x":77,
+                         "y":984
+                        }, 
+                        {
+                         "class":"variable",
+                         "height":0,
+                         "id":38,
+                         "name":"livresRecommandes1",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"URL \"Livres Recommand\u00e9s\" n\u00b01"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
+                                }],
+                         "rotation":0,
+                         "visible":true,
+                         "width":0,
+                         "x":336.666666666666,
+                         "y":496
                         }, 
                         {
                          "class":"variable",
@@ -3495,8 +3355,8 @@
                         {
                          "class":"variable",
                          "height":0,
-                         "id":59,
-                         "name":"articlesScientifiques2",
+                         "id":43,
+                         "name":"detente1",
                          "point":true,
                          "properties":[
                                 {
@@ -3507,7 +3367,7 @@
                                 {
                                  "name":"label",
                                  "type":"string",
-                                 "value":"URL \"Articles scientifiques\" n\u00b02"
+                                 "value":"URL \"D\u00e9tente\" n\u00b01"
                                 }, 
                                 {
                                  "name":"persist",
@@ -3517,14 +3377,14 @@
                          "rotation":0,
                          "visible":true,
                          "width":0,
-                         "x":80,
-                         "y":211
+                         "x":112.666666666666,
+                         "y":494.666666666667
                         }, 
                         {
                          "class":"variable",
                          "height":0,
-                         "id":60,
-                         "name":"articlesScientifiques3",
+                         "id":55,
+                         "name":"detente2",
                          "point":true,
                          "properties":[
                                 {
@@ -3535,7 +3395,7 @@
                                 {
                                  "name":"label",
                                  "type":"string",
-                                 "value":"URL \"Articles scientifiques\" n\u00b03"
+                                 "value":"URL \"D\u00e9tente\" n\u00b02"
                                 }, 
                                 {
                                  "name":"persist",
@@ -3545,8 +3405,64 @@
                          "rotation":0,
                          "visible":true,
                          "width":0,
-                         "x":79.6666666666667,
-                         "y":275
+                         "x":79,
+                         "y":562
+                        }, 
+                        {
+                         "class":"variable",
+                         "height":0,
+                         "id":56,
+                         "name":"detente3",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"URL \"D\u00e9tente\" n\u00b03"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
+                                }],
+                         "rotation":0,
+                         "visible":true,
+                         "width":0,
+                         "x":82,
+                         "y":629
+                        }, 
+                        {
+                         "class":"variable",
+                         "height":0,
+                         "id":48,
+                         "name":"etudesEtRapports1",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"URL \"Etudes et rapports\" n\u00b01"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
+                                }],
+                         "rotation":0,
+                         "visible":true,
+                         "width":0,
+                         "x":335.166666666667,
+                         "y":145.583333333333
                         }, 
                         {
                          "class":"variable",
@@ -3603,6 +3519,90 @@
                          "width":0,
                          "x":367.5,
                          "y":273
+                        }, 
+                        {
+                         "class":"variable",
+                         "height":0,
+                         "id":42,
+                         "name":"articlesScientifiques1",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"URL \"Articles scientifiques\" n\u00b01"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
+                                }],
+                         "rotation":0,
+                         "visible":true,
+                         "width":0,
+                         "x":112,
+                         "y":147.333333333333
+                        }, 
+                        {
+                         "class":"variable",
+                         "height":0,
+                         "id":59,
+                         "name":"articlesScientifiques2",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"URL \"Articles scientifiques\" n\u00b02"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
+                                }],
+                         "rotation":0,
+                         "visible":true,
+                         "width":0,
+                         "x":80,
+                         "y":211
+                        }, 
+                        {
+                         "class":"variable",
+                         "height":0,
+                         "id":60,
+                         "name":"articlesScientifiques3",
+                         "point":true,
+                         "properties":[
+                                {
+                                 "name":"default",
+                                 "type":"string",
+                                 "value":""
+                                }, 
+                                {
+                                 "name":"label",
+                                 "type":"string",
+                                 "value":"URL \"Articles scientifiques\" n\u00b03"
+                                }, 
+                                {
+                                 "name":"persist",
+                                 "type":"bool",
+                                 "value":true
+                                }],
+                         "rotation":0,
+                         "visible":true,
+                         "width":0,
+                         "x":79.6666666666667,
+                         "y":275
                         }],
                  "opacity":1,
                  "properties":[
