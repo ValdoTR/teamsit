@@ -53,9 +53,13 @@ WA.onInit().then(() => {
             "filmDuVendredi",
             "filmDuSamedi",
         ]
-        if (WA.state.filmDuJour) {
+
+        console.log("variable to load",mapDayToVariable[today])
+
+        WA.room.onEnterLayer('filmDuJourTrigger').subscribe(() => {
+            console.log("> load")
             WA.state.filmDuJour = WA.state.loadVariable(mapDayToVariable[today])
-        }
+        })
     
     }).catch(e => console.error(e));
 
