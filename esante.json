@@ -159,7 +159,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/teamsit\/metaverse\/le-jardin#from-template"
+                 "value":"\/@\/teamsit\/metaverse\/le-jardin#from-esante"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -276,7 +276,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"{{{ templateWebsite }}}"
+                         "value":"{{{ esanteWebsite }}}"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -338,7 +338,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"{{{ templateGame }}}"
+                         "value":"{{{ esanteGame }}}"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -678,7 +678,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"templateConference"
+                         "value":"esanteConference"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -873,7 +873,7 @@
                  "class":"variable",
                  "height":0,
                  "id":65,
-                 "name":"templateWebsite",
+                 "name":"esanteWebsite",
                  "point":true,
                  "properties":[
                         {
@@ -901,7 +901,7 @@
                  "class":"variable",
                  "height":0,
                  "id":73,
-                 "name":"templateGame",
+                 "name":"esanteGame",
                  "point":true,
                  "properties":[
                         {
@@ -1051,7 +1051,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Teamsit metaverse: template"
+         "value":"Teamsit metaverse: esante"
         }, 
         {
          "name":"mapImage",
@@ -1061,7 +1061,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"template"
+         "value":"esante"
         }, 
         {
          "name":"script",
