@@ -676,6 +676,11 @@
                  "name":"jitsiConference",
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"foundersConference"
