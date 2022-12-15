@@ -412,6 +412,12 @@
          "id":69,
          "name":"from-lifestyle",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -513,6 +519,12 @@
          "id":68,
          "name":"to-lifestyle",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/teamsit\/metaverse\/lifestyle#from-jardin"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -614,6 +626,12 @@
          "id":71,
          "name":"from-founders",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -715,6 +733,12 @@
          "id":70,
          "name":"to-founders",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/teamsit\/metaverse\/founders#from-jardin"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -816,6 +840,12 @@
          "id":73,
          "name":"from-esante",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -917,6 +947,12 @@
          "id":72,
          "name":"to-esante",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/teamsit\/metaverse\/esante#from-jardin"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -1018,6 +1054,12 @@
          "id":75,
          "name":"from-innovation",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -1119,6 +1161,12 @@
          "id":74,
          "name":"to-innovation",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/teamsit\/metaverse\/innovation#from-jardin"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
