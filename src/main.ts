@@ -25,7 +25,7 @@ WA.onInit().then(() => {
     WA.room.area.onLeave('signLeft').subscribe(closePopup)
 
     WA.room.area.onEnter('signRight').subscribe(() => {
-        currentPopup = WA.ui.openPopup("signRightPopup","Innovation, Santé, Entrepreneur",[]);
+        currentPopup = WA.ui.openPopup("signRightPopup","Innovation, Santé, Founders",[]);
     })
     WA.room.area.onLeave('signRight').subscribe(closePopup)
 
